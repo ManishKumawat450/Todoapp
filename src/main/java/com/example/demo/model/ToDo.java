@@ -30,4 +30,15 @@ public class ToDo {
     public void setCompleted(boolean completed) {
         this.completed = completed;
     }
+    private String title;  // The field
+
+    // Getter for 'title'
+    public String getTitle() {
+        return title;
+    }
+
+    // Setter for 'title'
+    public void setTitle(String title) {
+        this.title = title;
+    }
 }
