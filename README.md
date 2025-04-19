@@ -1,13 +1,13 @@
-# Ì≥ù ToDoApp
+##  ToDoApp
 A simple To-Do web application built with **Spring Boot**, **Spring Data JPA**, **Thymeleaf**, and **MySQL**.
 
-## Ì∫Ä Features
+##  Features
 - Add, update, and delete to-do tasks
 - View tasks on the homepage
 - Persistent data using MySQL
 - MVC architecture with service and repository layers
 
-## Ìª†Ô∏è Tech Stack
+## Tech Stack
 - Java 17
 - Spring Boot 3.1
 - Spring Data JPA
@@ -41,7 +41,7 @@ spring.datasource.password=YourPasswordHere
 App will be available at [http://localhost:8080](http://localhost:8080)
 
 
-## Ìπå Author
+##  Author
 **Manish Kumawat**  
 [GitHub](https://github.com/ManishKumawat450)
 
